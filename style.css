@@ -2,18 +2,13 @@ body {
   font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
 }
 
-.socialmediaicons ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.socialmediaicons ul li {
+.socialmediaicons {
   display: inline-block;
   margin-left: 5px;
 }
 
-.socialmediaicons ul li img {
-  width: 30px;
+.socialmediaicons img {
+  width: 40px;
   border-radius: 50%;
+  margin-right: 5px;
 }
